@@ -1,4 +1,4 @@
-S
+
 rowInput = int(input("Row of Star:"))
 text = ""
 empty = ""
