@@ -12,7 +12,7 @@ while True:
 def bilList():
     print("----My Food----")
     for i in range(len(menuList)):
-        print(menuList[i])
+        print(menuList[i][0],menuList[i][1])
 
 def totalPrice():
     total = 0
